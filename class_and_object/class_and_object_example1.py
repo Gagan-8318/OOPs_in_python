@@ -10,7 +10,7 @@
 
 # # Creating object
 # s1 = Student("Gagan", 22)
-print("gagan")
+print("gagan singh")
 
 # s1.show()
 class Student:
